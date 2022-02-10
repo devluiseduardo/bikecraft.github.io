@@ -162,7 +162,7 @@ main {
 
 @media (max-width: 800px) {
   body {
-    gap: 2.5rem;
+    gap: 1.5rem;
     margin-top: 1rem;
   }
   p {
@@ -184,10 +184,6 @@ main {
   }
   .grid {
     max-width: 42rem;
-  }
-  .vantagens-item,
-  .layout1 p {
-    word-break: break-all;
   }
   .layout3 {
     font-size: 1.8rem;
