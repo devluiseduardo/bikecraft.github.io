@@ -183,10 +183,11 @@ main {
     font-size: 0.8rem;
   }
   .grid {
-    max-width: 42rem;
+    max-width: 44rem;
   }
   .layout3 {
     font-size: 1.8rem;
+    padding: 2rem 1rem;
   }
   .vantagens {
     padding: 0.7rem 0.7rem;
@@ -213,5 +214,6 @@ main {
   }
   .layout3 {
     font-size: 2rem;
+    padding: 2rem 1rem;
   }
 }
